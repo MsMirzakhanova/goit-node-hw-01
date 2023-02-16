@@ -1,0 +1,23 @@
+{
+  "name": "goit-node-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MsMirzakhanova/goit-node-hw-01.git"
+  },
+  "author": "Marina Mirzakhanova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MsMirzakhanova/goit-node-hw-01/issues"
+  },
+  "homepage": "https://github.com/MsMirzakhanova/goit-node-hw-01#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
